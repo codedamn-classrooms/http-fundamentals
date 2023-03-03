@@ -1,1 +1,2 @@
-terminals: ["echo 'Write your netcat command here'"]
+terminals: ["echo 'Find out the IP address of Codedamn'"]
+browser-link: https://codedamn.com
